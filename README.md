@@ -62,9 +62,11 @@ Apache Airflow introduction Note & Testing
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 09: Installing Airflow via Docker
-
+initial setting up - VSCode
 ![image](https://github.com/user-attachments/assets/363ea0db-fd66-4205-b893-6f4eca1ad686)
                 
+Astro dev init > initialize the project for astro 
+![image](https://github.com/user-attachments/assets/41b61a8e-7cb9-49c6-b747-1191f239ba9a)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
