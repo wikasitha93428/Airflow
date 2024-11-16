@@ -28,9 +28,18 @@ Apache Airflow introduction Note & Testing
 
 04: Why we need Airflow?
         ![image](https://github.com/user-attachments/assets/e0a3c0c2-1aa2-434d-a7ec-f853544efb3c) 
-
+         1: A reliability orchestration for our data workflow at scale
+         2: Integrations and customizations
+         3: Accessibility and dynamism
+         4: Monitoring and data lineage
+         5: Huge community support
+         
 05: dbt + snowflake + Airflow 
         ![image](https://github.com/user-attachments/assets/4843d502-d5f3-4502-b3af-f9ee4d2eb0ad)
+        
+06 Airflow Components 
+        ![image](https://github.com/user-attachments/assets/c17b8697-eaef-4dce-84f5-9cffa1a0894c)
+
         
 
 
