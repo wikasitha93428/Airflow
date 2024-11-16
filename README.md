@@ -1,5 +1,6 @@
 ## Airflow
-Apache Airflow Testing 
+------------------------------------------
+Apache Airflow introduction Note & Testing 
 -------------------------------------------
 01: Prerequisites 
         1:Docker Desktop
@@ -19,3 +20,13 @@ Apache Airflow Testing
             Task = a unit of operation that we  need perform 
             ![image](https://github.com/user-attachments/assets/adf2a9e1-bccc-4f6b-8286-4abfa750e18e) 
             
+
+03: Why do we need workflow orchestration? 
+        The definition of data orchestration is the process of coordinating and automating the movement, 
+        transformation and integration of data across different systems and processes to ensure efficient
+        and reliable data workflows. 
+
+04: Why we need Airflow?
+        ![image](https://github.com/user-attachments/assets/e0a3c0c2-1aa2-434d-a7ec-f853544efb3c)
+
+        
