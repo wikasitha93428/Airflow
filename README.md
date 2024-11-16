@@ -43,7 +43,31 @@ Apache Airflow introduction Note & Testing
 07: Airflow core concepts
         ![image](https://github.com/user-attachments/assets/206ad3e7-c23a-4287-872b-5b98d53f4936)
 
+ 08:  What happened in DAG when we ran it
+         8.1: First we can see 4 major components below, below folder(directory is DAG directory where we can store our DAGs)
+                 ![image](https://github.com/user-attachments/assets/517556ab-46fd-4d78-aed8-0e4929d9894d)
+        8.2: Add our DAG file (my_dag.py) to schedule 
+                 ![image](https://github.com/user-attachments/assets/8504fa2f-65e0-4e16-8cb1-8c72e099759f)
+        8.3: Second, the Airflow schedular scans the DAG directory for new files (scan every 5 min by default)
+                ![image](https://github.com/user-attachments/assets/cfb1d35c-2962-4aa2-b68c-f01ee42c4192)
+        8.4: Once the scheduler detects a new DAG file, then it serializes to Meta Database, web server can also access Meta Database
+                ![image](https://github.com/user-attachments/assets/075c9fcd-5102-4710-b8b1-9e40b8a0725a)
+        8.5: If DAG is ready to run , Scheduler creates DAG run
+                ![image](https://github.com/user-attachments/assets/d6fb890a-2c33-43ab-9741-08fa9efcb91a)
+        8.6: Then the scheduler checks if there are tasks to run.If so, it creates a task instance for every task.Like for the Dag run.
+                ![image](https://github.com/user-attachments/assets/c3c7cc0d-6cc1-42ad-88bb-bcc5189f9269) 
+        8.7: Then the scheduler sends the task instance to the executor. Remember that the executor is responsible for defining how and on which system to execute your 
+             tasks.
+                ![image](https://github.com/user-attachments/assets/b52122b6-e361-47e5-85d7-7723241f0505)
+
+
+
+
+
         
+
+
+         
 
 
 
