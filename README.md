@@ -27,6 +27,11 @@ Apache Airflow introduction Note & Testing
         and reliable data workflows. 
 
 04: Why we need Airflow?
-        ![image](https://github.com/user-attachments/assets/e0a3c0c2-1aa2-434d-a7ec-f853544efb3c)
+        ![image](https://github.com/user-attachments/assets/e0a3c0c2-1aa2-434d-a7ec-f853544efb3c) 
+
+        ![image](https://github.com/user-attachments/assets/75a7797e-309b-4f75-8020-66442fd6ff6e) 
+
+        
+
 
         
