@@ -40,7 +40,11 @@ Apache Airflow introduction Note & Testing
 06 Airflow Components 
         ![image](https://github.com/user-attachments/assets/c17b8697-eaef-4dce-84f5-9cffa1a0894c)
 
+07: Airflow core concepts
+        ![image](https://github.com/user-attachments/assets/206ad3e7-c23a-4287-872b-5b98d53f4936)
+
         
+
 
 
         
