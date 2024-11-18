@@ -91,6 +91,8 @@ path =/home/wiks/Documents/2024_learn/2024_nov/airflow_udemy/udemy_airflow
 
 ![image](https://github.com/user-attachments/assets/a0b919fe-0861-43b2-a693-0636c5c265d3)
 
+Docker Desktop Running containers 
+![image](https://github.com/user-attachments/assets/18c62e04-4c30-4f2c-aa8a-fcf617567e8d)
 
         
 
