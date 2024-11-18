@@ -68,6 +68,7 @@ initial setting up - VSCode
 Astro dev init > initialize the project for astro 
 ![image](https://github.com/user-attachments/assets/41b61a8e-7cb9-49c6-b747-1191f239ba9a)
 
+docker container port : /home/wiks/Documents/2024_learn/2024_nov/airflow_udemy/airflow-materials/airflow-materials/airflow-section-3/docker-compose.yml
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
