@@ -80,12 +80,12 @@ path =/home/wiks/Documents/2024_learn/2024_nov/airflow_udemy/udemy_airflow
 
 ## Commands 
 ----------------------------------------------------
-astro dev start
-if any error occured
-docker stop container_id
-astro config set webserver.port 8081
-astro config set postgres.port 5435
-astro dev start
+1:astro dev start
+##if any error occured
+2:docker stop container_id
+3:astro config set webserver.port 8081
+4:astro config set postgres.port 5435
+5:astro dev start
 -----------------------------------------------------
 ![image](https://github.com/user-attachments/assets/3f278d31-b744-4e55-ac20-96de96f3e244)
 
