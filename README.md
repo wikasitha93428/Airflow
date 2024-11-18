@@ -75,7 +75,7 @@ docker container port : /home/wiks/Documents/2024_learn/2024_nov/airflow_udemy/a
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Erorrs handling Airflow ####
 01: ports are in use 
-
+https://www.astronomer.io/docs/astro/cli/troubleshoot-locally/#ports-are-not-available-for-my-local-airflow-webserver)
 path =/home/wiks/Documents/2024_learn/2024_nov/airflow_udemy/udemy_airflow
 
 ## Commands 
